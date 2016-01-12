@@ -1,3 +1,4 @@
 # illustrator
-learning draw
+Beginners learn
+learning draw, sample design, pattern, color, tool,
 ======
